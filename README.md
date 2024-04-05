@@ -28,7 +28,7 @@ PHONEPE DATA VISUALIZATION & EXPLORATION is a project aimed at analyzing and exp
 ```bash
 git clone https://github.com/username/phonepe-data-visualization.git
 
-**##Usage**
+##Usage
 Upload your Phonepe transaction data.
 Explore various visualizations and insights.
 Use filters and sorting options to analyze specific aspects of the data.
@@ -38,5 +38,5 @@ Contributions are welcome! If you have any ideas, feature requests, or bug repor
 
 
 
-**##Acknowledgements**
+##Acknowledgements
 Special thanks to the developers of Pandas, Plotly, and Streamlit for their excellent libraries and the open-source community for their contributions. This project was inspired by the need for a comprehensive tool to explore and visualize Phonepe transaction data.
