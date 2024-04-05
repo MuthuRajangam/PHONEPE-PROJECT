@@ -1,4 +1,4 @@
-###Phonepe Pulse Data Visualization and Exploration
+#Phonepe Pulse Data Visualization and Exploration
 ##Project Overview
 Phonepe Pulse Data Visualization and Exploration is a user-friendly tool designed to analyze and visualize data related to Phonepe transactions. Leveraging the power of Python libraries such as Pandas for data manipulation, Plotly for interactive visualizations, and Streamlit for creating intuitive web applications, this project aims to provide a seamless experience for exploring and understanding Phonepe transaction data.
 
